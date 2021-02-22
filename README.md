@@ -20,9 +20,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white)
 ![webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black)
 
-### Exploring:
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white)
-
 Here's a cool introduction page that I found while exploring GitHub! (You can do it too by creating a public repo with your GitHub handle. Shhhh, it's a secret!)
 <!--
 **blargeth/blargeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
