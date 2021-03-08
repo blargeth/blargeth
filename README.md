@@ -1,5 +1,7 @@
 ## Hi there, welcome to my GitHub! 👋
 
+[Portfolio](https://blargeth.github.io/)
+
 [LinkedIn](https://www.linkedin.com/in/albertkchua/)
 
 - :office: I am pretty new to the field of development and looking for work!
