@@ -4,7 +4,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/albertkchua/)
 
-- :office: I am pretty new to the field of development and looking for work!
+- :office: Looking for work!
 - :round_pushpin: Based in NY, NY
 
 ### Languages & Tools
