@@ -6,7 +6,6 @@
 
 [Leetcode](https://github.com/blargeth/LeetCodeSolutions)
 
-- :office: Looking for work!
 - :round_pushpin: Based in NY, NY
 
 ### Languages & Tools
